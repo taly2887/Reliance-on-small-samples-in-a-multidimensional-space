@@ -1,6 +1,6 @@
 # Reliance-on-small-samples-in-a-multidimensional-space
 
-The models simulate data for n trials and assign a choice (Risky/Safe) for each trial based on the values of kappa, epsilon (E), and frequency (f).
+The models (CS, NCS, fNCS models.R) simulate data for n trials and assign a choice (Risky/Safe) for each trial based on the values of kappa, epsilon (E), and frequency (f).
 For implementing the CS model - please nullify the E and the f and use kappa only.
 For NCS model nullify the f and use E and kappa, and for fNCS use the three variables.
 
